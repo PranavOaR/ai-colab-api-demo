@@ -1,0 +1,12 @@
+# This folder stores images and other assets for the project
+
+You can add:
+- Screenshots of the notebook in action
+- Diagrams explaining the workflow
+- Example outputs from the AI
+- Logo or branding images
+
+To use images in your README or notebook, upload them here and reference them like:
+```markdown
+![Description](assets/image-name.png)
+```
