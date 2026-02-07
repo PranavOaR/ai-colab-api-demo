@@ -9,7 +9,7 @@ A comprehensive, student-friendly project demonstrating how to use Google's Gemi
 
 Learn the fundamentals of AI text generation, summarization, and code explanation.
 
-### 2. Data Analysis Demo  
+### 2. Data Analysis Demo - Recommended
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PranavOaR/ai-colab-api-demo/blob/main/notebooks/ai_data_analysis_demo.ipynb)
 
 Discover how AI can analyze datasets, generate insights, and create automated reports.
