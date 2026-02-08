@@ -2,7 +2,7 @@
 
 A comprehensive, student-friendly project demonstrating how to use Google's Gemini AI API inside Google Colab for real-world applications including text generation and data analysis.
 
-## 📚 Available Notebooks
+## 📚 Available Notebooks - Description 
 
 ### 1. Text Generation Demo
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PranavOaR/ai-colab-api-demo/blob/main/notebooks/gemini_text_generation_demo.ipynb)
