@@ -13,7 +13,7 @@ This notebook teaches students how to integrate **free, ultra-fast AI** into dat
 **Key Features:**
 - 📊 Create and visualize datasets (pandas + matplotlib)
 - 🤖 Analyze data with AI (Groq API - 10-100x faster than alternatives)
-- 📝 Generate automated insights and reports
+- 📝 Generate automated insights and reports.
 - 💬 Ask AI specific questions about your data
 - ⚡ Near-instant AI responses (no rate limits) - Using Groq
 
