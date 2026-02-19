@@ -1,4 +1,4 @@
-# 🤖 AI-Powered Data Analysis with Groq API
+# 🤖 AI-Powered Data Analysis with GROQ
 
 **A student-friendly Google Colab notebook demonstrating how to use free AI (Groq + Llama-3.1) to analyze datasets, generate insights, and create automated reports.**
 
