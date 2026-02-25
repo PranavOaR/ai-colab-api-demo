@@ -21,7 +21,7 @@ This notebook teaches students how to integrate **free, ultra-fast AI** into dat
 
 ---
 
-## 🚀 Quick Start (3 Steps)
+## 🚀 Quick Start 
 
 ### Step 1: Get Your FREE Groq API Key (2 minutes)
 
